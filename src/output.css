@@ -660,6 +660,10 @@ video {
   width: 100vw;
 }
 
+.w-full {
+  width: 100%;
+}
+
 .max-w-\[576px\] {
   max-width: 576px;
 }
