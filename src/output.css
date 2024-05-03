@@ -975,6 +975,10 @@ video {
     display: inline;
   }
 
+  .md\:hidden {
+    display: none;
+  }
+
   .md\:h-\[775\.50px\] {
     height: 775.50px;
   }
